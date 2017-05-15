@@ -1,0 +1,13 @@
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\bin\Debug\checkers.exe.config
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\bin\Debug\checkers.exe
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\bin\Debug\checkers.pdb
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\obj\Debug\MainWindow.g.cs
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\obj\Debug\App.g.cs
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\obj\Debug\checkers_MarkupCompile.cache
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\obj\Debug\checkers_MarkupCompile.lref
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\obj\Debug\MainWindow.baml
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\obj\Debug\checkers.g.resources
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\obj\Debug\checkers.Properties.Resources.resources
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\obj\Debug\checkers.csproj.GenerateResource.Cache
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\obj\Debug\checkers.exe
+D:\C++ Проекты\Курсач Шашки (6-ой сем)\Мой курсач\checkers\checkers\obj\Debug\checkers.pdb
